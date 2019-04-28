@@ -7,4 +7,22 @@
   margin: 20px;
   height: 350px;
 }
-
+h1 {
+  text-align:center;
+  color:blue;
+}
+p {
+  text-align:center;
+  color:blue;
+  font-size:20px;
+}
+button {
+  font-size:18px;
+}
+body{
+    background-color: bisque;
+    background-image: url("./background-image");
+}
+footer{
+    margin-top: 280px;
+}
