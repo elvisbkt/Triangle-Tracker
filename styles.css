@@ -1,0 +1,10 @@
+.form {
+  text-align:center;
+  font-size: 20px;
+  background-color:skyblue;
+  padding:8px;
+  border: 2px solid red;
+  margin: 20px;
+  height: 350px;
+}
+
