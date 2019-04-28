@@ -9,19 +9,21 @@
 }
 h1 {
   text-align:center;
-  color:blue;
+  color:yellow;
+    margin-top: -690px
 }
 p {
   text-align:center;
-  color:blue;
-  font-size:20px;
+  font-size:29px;
 }
 button {
   font-size:18px;
 }
 body{
+    margin-top: -1px;
     background-color: bisque;
-    background-image: url("./background-image");
+    background-image: url("./backround-image.png");
+    box-sizing: inherit;
 }
 footer{
     margin-top: 280px;
